@@ -14,7 +14,7 @@ function App() {
       smooth: true,
       // Decrease the speed to slow down the scrolling
       // You can adjust this value as needed
-      speed: 20000,œ
+      speed: 20000,
       // You can add more options here as needed
     });
 
