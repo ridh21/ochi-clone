@@ -4,6 +4,7 @@ import LandingPage from './components/LandingPage';
 import Marquee from './components/Marquee';
 import About from './components/About';
 import LocomotiveScroll from 'locomotive-scroll';
+import Eyes from './components/Eyes';
 
 function App() {
   const mainContentRef = useRef(null);
@@ -32,6 +33,7 @@ function App() {
       <LandingPage />
       <Marquee />
       <About />
+      <Eyes></Eyes>
     </div>
   );
 }
