@@ -1,8 +1,46 @@
-# React + Vite
+# Ochi Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ochi Clone is a project aimed at replicating the functionality and design of the original Ochi application. This repository contains the source code and resources needed to build and run the Ochi Clone.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+The Ochi Clone project is designed to emulate the key features and user experience of the original Ochi application. This clone serves as a practice project to understand and implement various web development techniques and technologies.
+
+## Features
+
+- User authentication and authorization
+- Responsive design
+- Interactive user interface
+- Data management with a backend service
+- Integration with external APIs
+
+## Getting Started
+
+To get started with the Ochi Clone project, follow the instructions below to set up the development environment on your local machine.
+
+### Prerequisites
+
+Make sure you have the following software installed:
+
+- Node.js
+- npm (Node Package Manager)
+- Git
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/HarshDodiya1/ochi-clone.git
+   cd ochi-clone
